@@ -1,5 +1,3 @@
-Here is a clean, professional README tailored specifically for a repository highlighting these 5 core files. You can copy and paste this into a `README.md` file in your showcase repository!
-
 ***
 
 # DeepFish: Computer Vision & Tracking Pipeline 🐟
