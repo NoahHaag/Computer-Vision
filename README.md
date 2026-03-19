@@ -23,14 +23,6 @@ The integration of these techniques demonstrates a significant advancement in ma
 ## Marine Conservation Context
 With increasing threats to marine ecosystems from overfishing, pollution, and climate change, the DeepFish project aims to utilize these cutting-edge technologies to gather and analyze data that inform conservation strategies. By effectively tracking and assessing biodiversity, we can develop more informed approaches to safeguarding our oceans.
 
-## File Descriptions
-- **data/**: Contains datasets used for training and evaluation.
-- **src/**: Source code for model training and evaluation.
-- **results/**: Output from model predictions and evaluations.
-
-## Workflow Diagram
-A detailed workflow diagram illustrating the data processing pipeline is included in the repository under `docs/workflow_diagram.png`.
-
 ## Metrics
 Performance metrics for our models include precision, recall, F1-score, and mean Average Precision (mAP), which are essential in understanding the efficiency and effectiveness of our models in real-world applications.
 
